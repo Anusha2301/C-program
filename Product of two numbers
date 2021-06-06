@@ -1,0 +1,13 @@
+#include<iostream.h>
+ Using namespace std;
+ int multiply(int x,int y);
+ {
+  return x*y;
+ }
+  int main() 
+ {
+   int a,b;
+   Cout<<"Enter two numbers to find there product"<<end1;
+   Cin>>a,b; 
+   return 0;
+}
